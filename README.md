@@ -6,7 +6,7 @@ You must have **Node.js** and **NPM** installed on your computer.
 
 1.  **Get the code:**
     ```bash
-    git clone [Repository link](https://github.com/CarlosDanielSucre/king-arthur-frontend.git)
+    git clone https://github.com/CarlosDanielSucre/king-arthur-frontend.git
     cd king-arthur-frontend
     ```
 
